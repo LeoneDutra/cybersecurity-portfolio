@@ -10,15 +10,32 @@ A centralized space to organize my cybersecurity learning path and link to all p
 | [AI Security Lab](https://github.com/LeoneDutra/ai-security-lab) | AI foundations, LLMs, agents, security of AI · DIO AWS Cybersecurity Bootcamp |
 | [Python Security Lab](https://github.com/LeoneDutra/python-security-lab) | Python for security ops, ML detection and secure LLM agents (tested exercises) |
 
-### 🛡️ Cybersecurity foundations
+### 🔎 SOC, Detection & Incident Response
 | Project | Focus |
 |---|---|
-| [Cloud Security Lab](https://github.com/LeoneDutra/cloud-security-lab) | AWS IAM, least privilege, logging, monitoring |
-| [SOC Home Lab](https://github.com/LeoneDutra/soc-home-lab) | Log analysis, detection, incident response |
-| [Network Fundamentals Lab](https://github.com/LeoneDutra/network-fundamentals-lab) | TCP/IP, DNS, routing, firewalls, packet capture |
-| [Python for Cybersecurity](https://github.com/LeoneDutra/python-for-cyber) | Automation scripts and security utilities |
-| [Incident Response: HTTP Traffic](https://github.com/LeoneDutra/incident-response-http-traffic) | End-to-end IR case study with PCAP and IOCs |
+| [Security Homelab](https://github.com/LeoneDutra/security-homelab) | Wazuh SIEM, Sysmon, Active Directory, Atomic Red Team |
+| [Detection Engineering Lab](https://github.com/LeoneDutra/detection-engineering-lab) | Sigma rules → KQL/SPL, MITRE ATT&CK, CI validation |
+| [DFIR Casebook](https://github.com/LeoneDutra/dfir-casebook) | IR and forensics cases as professional reports (incl. HTTP traffic case) |
+| [Threat Hunting Playbooks](https://github.com/LeoneDutra/threat-hunting-playbooks) | Hypothesis-driven hunts and CTI reports |
+| [SOC Automation](https://github.com/LeoneDutra/soc-automation) | Python tools, IOC enrichment, SOAR workflows |
 | [Phishing Challenge](https://github.com/LeoneDutra/cibersecurity-desafio-phishing) | Phishing project challenge |
+
+### ☁️ Cloud
+| Project | Focus |
+|---|---|
+| [Cloud Security Lab](https://github.com/LeoneDutra/cloud-security-lab) | AWS IAM, least privilege, logging, Terraform, CSPM |
+
+### 🏭 OT/ICS, GRC & Offensive fundamentals
+| Project | Focus |
+|---|---|
+| [OT / ICS Security Lab](https://github.com/LeoneDutra/ot-security-lab) | Purdue Model, IEC 62443, Modbus, OpenPLC brewery lab |
+| [GRC Portfolio](https://github.com/LeoneDutra/grc-portfolio) | Risk assessment, NIST CSF 2.0, policies, BCP |
+| [Offensive Write-ups](https://github.com/LeoneDutra/offensive-writeups) | Authorized labs with "How to detect this" sections |
+
+### 🛡️ Foundations & certifications
+| Project | Focus |
+|---|---|
+| [Networking Fundamentals](https://github.com/LeoneDutra/networking-fundamentals) | TCP/IP, DNS, routing, firewalls, Linux, Windows/AD |
 | [Security+ Notes](https://github.com/LeoneDutra/exam-notes-security-plus) | CompTIA Security+ (SY0-701) study notes |
 
 ## 🧭 Career Roadmap
